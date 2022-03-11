@@ -16,6 +16,8 @@ Someone can empower themself in a digital world by gaining experience and knowle
 
 2. How does someone that is empowered help someone that is not empowered? Describe something you could do at Del Norte HS.
 
-Someone can empower someone else by introducing that someone else to technology and showing them how to work it. They should also gain access to computers and other technology. At Del Norte, we can 
+Someone can empower someone else by introducing that someone else to technology and showing them how to work it. They should also gain access to computers and other technology. At Del Norte, we can offer computers to students and teach them how to properly use them.
 
 3. Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?
+
+Paper or red tape are blocking digital empowerment. There are such barriers at Del Norte, such as when the school internet blocks certain websites from being accessed. There are also such barriers elsewhere.
