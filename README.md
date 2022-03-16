@@ -1,4 +1,4 @@
-# This is David-Xie123's repository
+# AP CSP Period 3: David's Python Work
 
 Link to Github: https://github.com/David-Xie123/David-Xie123.github.io
 
