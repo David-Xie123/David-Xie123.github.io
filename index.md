@@ -1,4 +1,4 @@
 {% include navigation.html %}
 
-{% include README.md %}
+{% include_relative README.md %}
 # AP CSP Period 3: David's Python Work
