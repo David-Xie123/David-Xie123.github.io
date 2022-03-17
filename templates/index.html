@@ -1,0 +1,47 @@
+{% extends "layouts/base.html" %}
+{% block content %}
+    <!DOCTYPE html>
+
+
+<div style = " margin: 2% 5% 5% 2%; text-align:left;">
+    <div>
+        <h1 style id="welcome">Welcome to David's Space!</h1>
+        <p style id="aboutus">To learn about the people who created this fun website, click “About” at the top of the screen. <br>
+            </p>
+        <p style id="training"> We have some training activities to help YOU become a better ninja. Have fun! </p>
+    </div>
+</div>
+
+<style>
+    #welcome{
+        position: relative;
+        left: 100px;
+        font-family: 'Impact';
+        font-size: 60px;
+        font-weight: 900;
+        text-align: left;
+        padding: 30px;
+        color: #ea5f3f;
+    }
+    #aboutus{
+        position: relative;
+        left: 100px;
+        font-family: 'Helvetica';
+        font-size: 20px;
+        font-weight: 200;
+        text-align: left;
+        padding: 20px;
+        color: #efefef;
+    }
+    #training{
+        position: relative;
+        left: 100px;
+        font-family: 'Impact';
+        font-size: 25px;
+        font-weight: 200;
+        text-align: left;
+        padding: 20px;
+        color: #efefef;
+    }
+</style>
+{% endblock %}
