@@ -83,4 +83,4 @@ if nterms <= 0:
 else:  
    print("The Fibonacci sequence for that number is")  
    for i in range(nterms):  
-       print(recur_fibo(i))  
+       print(recur_fibonacci(i))
