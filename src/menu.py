@@ -19,7 +19,7 @@ sub_menu = {
 
 # Menu banner is typically defined by menu owner
 border = "=" * 25
-banner = f"\n{border}\nPlease Select An Option\n{border}"
+banner = f"\n{border}\nPlease Select An Option\n{border}\n"
 
 # def menu
 def menu():
