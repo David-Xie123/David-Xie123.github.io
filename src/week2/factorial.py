@@ -1,16 +1,21 @@
 class factorial:
     def __init__(self):
-        self.factSeq = [0, 1]
+        self.fact = 1
     def __call__(self, n):
-        if n < len(self.factSeq):
-            return self.factSeq[n]
+        if n <= 1:
+            return 1
         else:
             # Compute the requested factorial number
-            fact_number = self(n - 1) * self(n - 2) # two recursive calls to self (__call__(self, n))
-            self.factSeq.append(fact_number) # builds list, with most nested of the calculations 1st... may hurt your head
-        return self.factSeq[n]
+            fact_number = n * self(n - 1) # two recursive calls to self (__call__(self, n))
+            return fact_number # builds list, with most nested of the calculations 1st... may hurt your head
+
     def factorial(self):
         fact_of = factorial()
-        num = int(input("Enter any Number to find its factorial: "))
-        self.fact_of(num)
-        print(fact_of(5)) # object running __call__ method
+
+        # self.fact_of(num)
+        print(fact_of(num)) # object running __call__ method
+
+# initiates class
+f = factorial
+num = int(input("Enter any Number to find its factorial: "))
+f.factorial(num)

@@ -7,6 +7,11 @@ class Factors:
                 print("{0}".format(value), end=" ")
         print()
 
-    def factors(self):
-        num = int(input("Enter any Number to find its factors: "))
-        self.findFactors(num)
+    # def factors(self):
+
+        # self.findFactors(num)
+
+# initiates class
+f = Factors
+num = int(input("Enter any Number to find its factors: "))
+f.findFactors(num)
