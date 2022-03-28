@@ -9,3 +9,5 @@
 [Review Ticket Week 0](https://github.com/David-Xie123/David-Xie123.github.io/issues/1)
 
 [Review Ticket Week 1](https://github.com/David-Xie123/David-Xie123.github.io/issues/2)
+
+[Review Ticket Week 2](https://github.com/David-Xie123/David-Xie123.github.io/issues/4)
