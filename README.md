@@ -1,20 +1,20 @@
 <table>
     <tr>
-        <td><a href="https://maboinjd.github.io/Tri-3-Erik-Peterson/">Main Page</a></td>
-        <td><a href="https://maboinjd.github.io/Tri-3-Erik-Peterson/datastructure">Data Structure </a></td>
-        <td><a href="https://maboinjd.github.io/Tri-3-Erik-Peterson/testprep">Test Prep </a></td>
-        <td><a href="https://maboinjd.github.io/Tri-3-Erik-Peterson/createtask">Create Task</a></td>
+        <td><a href="https://github.com/David-Xie123/David-Xie123.github.io/blob/main/">Main Page</a></td>
+        <td><a href="https://github.com/David-Xie123/David-Xie123.github.io/blob/main/about.md">Data Structure </a></td>
+        <td><a href="https://github.com/David-Xie123/David-Xie123.github.io/blob/main/about.md">Test Prep </a></td>
+        <td><a href="https://github.com/David-Xie123/David-Xie123.github.io/blob/main/about.md">Create Task</a></td>
     </tr>
 </table>
 
 # AP CSP Period 3: David's Python Work
 
-[Link to Github](https://github.com/David-Xie123/David-Xie123.github.io)
-[Link to Test Prep Page](https://maboinjd.github.io/Tri-3-Erik-Peterson/testprep)
-[Link to Data Structures Page](https://maboinjd.github.io/Tri-3-Erik-Peterson/datastructure)
-[Link to Create Task Page](https://maboinjd.github.io/Tri-3-Erik-Peterson/createtask)
+#### [Link to Github](https://github.com/David-Xie123/David-Xie123.github.io)
+#### [Link to Test Prep Page](https://github.com/David-Xie123/David-Xie123.github.io/blob/main/about.md)
+#### [Link to Data Structures Page](https://github.com/David-Xie123/David-Xie123.github.io/blob/main/about.md)
+#### [Link to Create Task Page](https://github.com/David-Xie123/David-Xie123.github.io/blob/main/about.md)
 
-[Replit](https://replit.com/@DavidXie123/David-Xie123githubio-2#main.py)
+#### [Replit](https://replit.com/@DavidXie123/David-Xie123githubio-2#main.py)
 
 **Review Tickets:**
 
