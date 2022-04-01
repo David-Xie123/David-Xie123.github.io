@@ -9,8 +9,8 @@
 ## Create Task
 [Create Task Idea](https://github.com/David-Xie123/David-Xie123.github.io/wiki/Create-Task-Idea)
 
-<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@DavidXie123/David-Xie123githubio"> </iframe>
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@DavidXie123/David-Xie123githubio-1"> </iframe>
 
 <div class="row justify-content-center" style="margin: 2%;">
-    <iframe height="1000px" width="500px" src="https://replit.com/@DavidXie123/David-Xie123githubio?lite=true#main.py"> </iframe>
+    <iframe height="1000px" width="500px" src="https://replit.com/@DavidXie123/David-Xie123githubio-3#src/numberGuessing.py"> </iframe>
 </div>
