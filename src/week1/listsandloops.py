@@ -75,7 +75,11 @@ def recur_fibonacci(n):
        return n  
    else:  
        return(recur_fibonacci(n-1) + recur_fibonacci(n-2))  
-# take input from the user  
+
+
+tester1()
+tester2()
+
 nterms = int(input("Enter a number for a Fibonacci sequence: "))  
 # check if the number of terms is valid  
 if nterms <= 0:  
