@@ -8,3 +8,4 @@
 
 ## Create Task
 [Create Task Idea](https://github.com/David-Xie123/David-Xie123.github.io/wiki/Create-Task-Idea)
+[Create Task Replit](https://replit.com/@DavidXie123/David-Xie123githubio-1#src/numberGuessing.py)
