@@ -1,2 +1,3 @@
-language = "python"
-run = "python src/menu.py"
+run = ["python3", "src/week1/listsandloops.py"]
+# The primary language of the repl. There can be others, though!
+language = "python3"
