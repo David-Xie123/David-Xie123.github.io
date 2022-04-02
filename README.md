@@ -14,7 +14,7 @@
 #### [Link to Data Structures Page](https://github.com/David-Xie123/David-Xie123.github.io/blob/main/about.md)
 #### [Link to Create Task Page](https://github.com/David-Xie123/David-Xie123.github.io/blob/main/about.md)
 
-#### [Replit](https://replit.com/@DavidXie123/David-Xie123githubio-2#main.py)
+#### [Replit](https://replit.com/@DavidXie123/David-Xie123githubio-2#src/menu.py)
 
 **Review Tickets:**
 
