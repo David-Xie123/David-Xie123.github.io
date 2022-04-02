@@ -13,9 +13,11 @@ class Palindrome:
             return True
         return False
 
-    # main function
+
+def palindromeTester():
+    p = Palindrome
     s = input(str("Enter a word and I will determine whether or not it is a Palindrome: "))
-    ans = isPalindrome(s)
+    ans = p.isPalindrome(s)
 
     if (ans):
         print("That is a Palindrome")
