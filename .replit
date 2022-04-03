@@ -1,6 +1,5 @@
-language = "nodejs"
 run = "python src/menu.py"
 
 #run = ["python3", "src/menu.py"]
 # The primary language of the repl. There can be others, though!
-#language = "python3"
+language = "python3"
