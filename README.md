@@ -1,6 +1,6 @@
 <table>
     <tr>
-        <td><a href="https://github.com/David-Xie123/David-Xie123.github.io/blob/main/">Main Page</a></td>
+        <td><a href="https://github.com/David-Xie123/David-Xie123.github.io">Main Page</a></td>
         <td><a href="https://github.com/David-Xie123/David-Xie123.github.io/blob/main/about.md">Data Structure </a></td>
         <td><a href="https://github.com/David-Xie123/David-Xie123.github.io/blob/main/about.md">Test Prep </a></td>
         <td><a href="https://github.com/David-Xie123/David-Xie123.github.io/blob/main/about.md">Create Task</a></td>
