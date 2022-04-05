@@ -1,6 +1,7 @@
 import random
 
-words = ['kindly', 'recite', 'repeat', 'tree', 'display', 'geeks', 'coader', 'programmer', 'python', 'premium', 'watch']
+words = ['lacrosse', 'cradle', 'cross check', 'handles',
+         'loosie', 'on ball', 'off ball', 'screen']
 
 word = random.choice(words)
 
