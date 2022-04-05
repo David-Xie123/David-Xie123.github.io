@@ -30,14 +30,18 @@ def print_data(n):
 # Hack 2: InfoDB loops. Print values from the lists using three different ways: for, while, recursion
 ## hack 2a: def for_loop()
 def for_loop():
+    print("print InfoDb using for loop")
     for n in range(len(InfoDb)):
         print_data(n)
 ## hack 2b: def while_loop(0)
-def while_loop(n):
+def while_loop():
+    print("print InfoDb using while loop")
+    n=0
     while n < len(InfoDb):
         print_data(n)
         n += 1
     return
+
 ## hack 2c : def recursive_loop(0)
 def recursive_loop(n):
     if n < len(InfoDb):
@@ -76,15 +80,21 @@ def recur_fibonacci(n):
    else:  
        return(recur_fibonacci(n-1) + recur_fibonacci(n-2))  
 
+# test recur fibonacci
 
-tester1()
-tester2()
+def test_recur_fibonacci():
+    nterms = int(input("Enter a number for a Fibonacci sequence: "))
+    # check if the number of terms is valid
+    if nterms <= 0:
+        print("The Fibonacci sequence for that number does not exist")
+    else:
+        print("The Fibonacci sequence for that number is")
+        for i in range(nterms):
+            print(recur_fibonacci(i))
 
-nterms = int(input("Enter a number for a Fibonacci sequence: "))  
-# check if the number of terms is valid  
-if nterms <= 0:  
-   print("The Fibonacci sequence for that number does not exist")  
-else:  
-   print("The Fibonacci sequence for that number is")  
-   for i in range(nterms):  
-       print(recur_fibonacci(i))
+def test_recur_loop():
+    print("print InfoDb using recursive loop")
+    recursive_loop(0)
+
+if __name__ == "__main__":
+    test_recur_fibonacci()

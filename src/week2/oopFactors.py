@@ -7,11 +7,13 @@ class Factors:
                 print("{0}".format(value), end=" ")
         print()
 
-    # def factors(self):
+def factorsTest():
+    f = Factors
+    num = int(input("Enter any Number to find its factors: "))
+    f.findFactors(num)
 
-        # self.findFactors(num)
-
+if __name__ == "__main__":
 # initiates class
-f = Factors
-num = int(input("Enter any Number to find its factors: "))
-f.findFactors(num)
+    f = Factors
+    num = int(input("Enter any Number to find its factors: "))
+    f.findFactors(num)

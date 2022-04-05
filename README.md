@@ -1,6 +1,6 @@
 <table>
     <tr>
-        <td><a href="https://github.com/David-Xie123/David-Xie123.github.io/blob/main/">Main Page</a></td>
+        <td><a href="https://github.com/David-Xie123/David-Xie123.github.io">Main Page</a></td>
         <td><a href="https://github.com/David-Xie123/David-Xie123.github.io/blob/main/about.md">Data Structure </a></td>
         <td><a href="https://github.com/David-Xie123/David-Xie123.github.io/blob/main/about.md">Test Prep </a></td>
         <td><a href="https://github.com/David-Xie123/David-Xie123.github.io/blob/main/about.md">Create Task</a></td>
@@ -14,7 +14,7 @@
 #### [Link to Data Structures Page](https://github.com/David-Xie123/David-Xie123.github.io/blob/main/about.md)
 #### [Link to Create Task Page](https://github.com/David-Xie123/David-Xie123.github.io/blob/main/about.md)
 
-#### [Replit](https://replit.com/@DavidXie123/David-Xie123githubio-2#main.py)
+#### [Replit](https://replit.com/@DavidXie123/David-Xie123githubio-2#src/menu.py)
 
 **Review Tickets:**
 
