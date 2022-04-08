@@ -9,6 +9,6 @@
 [Week 0](https://replit.com/@DavidXie123/David-Xie123githubio-2#src/menu.py), [Week 1](https://replit.com/@DavidXie123/David-Xie123githubio-3#src/week1/listsandloops.py), [Week 2](https://replit.com/@DavidXie123/David-Xie123githubio-1#src/week2/factorial.py), Week 3
 
 ## Create Task
-[Create Task Idea](https://github.com/David-Xie123/David-Xie123.github.io/wiki/Create-Task-Idea)
+[Create Task Idea and Requirements](https://github.com/David-Xie123/David-Xie123.github.io/wiki/Create-Task-Idea-and-Requirements)
 
 [Create Task Replit](https://replit.com/@DavidXie123/David-Xie123githubio-4#src/numberGuessing.py)
