@@ -23,3 +23,7 @@
 [Review Ticket Week 1](https://github.com/David-Xie123/David-Xie123.github.io/issues/2)
 
 [Review Ticket Week 2](https://github.com/David-Xie123/David-Xie123.github.io/issues/4)
+
+[Review Ticket Week 3](https://github.com/David-Xie123/David-Xie123.github.io/issues/5)
+
+[Review Ticket Week 4](https://github.com/David-Xie123/David-Xie123.github.io/issues/6)
